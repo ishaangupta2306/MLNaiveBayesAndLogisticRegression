@@ -45,4 +45,5 @@ Partitions are determined by a `DecisionTree.split_attribute` and `DecisionTree.
 
 The `split_attribute` and `split_boundary` are determined by a split criterion function passed to the decision tree as a dependency. By default, a split criterion selects the attribute with highest information gain, but can be passed alternative functions to select attributes by gain ratio or to select a random attribute.
 
-Worked on this project with 3 other fellow students at CWRU
+# Copyright
+Worked on this project with 3 other fellow students at CWRU. Git Log history is hidden to avoid Copyright infringement.
